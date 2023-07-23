@@ -22,7 +22,7 @@ django-crispy-forms==1.9.0
 docker==4.2.0
 docutils==0.15.2
 Flask==1.0.4
-future==0.18.2
+future==0.18.3
 git-remote-codecommit==1.13
 gunicorn==20.0.4
 idna==2.9
